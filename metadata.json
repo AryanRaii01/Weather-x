@@ -1,0 +1,6 @@
+{
+  "name": "WEATHER X",
+  "description": "Futuristic glassmorphism weather dashboard featuring real-time meteorological telemetry, 3D luminous solar/cloud visualizers, 7-day & hourly forecasting, air quality radial gauge, interactive wind radar compass, and ambient nature soundscapes.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
